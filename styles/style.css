@@ -1,3 +1,23 @@
 body {
   background: lightsalmon;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 3px;
+  border: 2px solid yellow;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+.links a {
+  margin: 20px;
+}
