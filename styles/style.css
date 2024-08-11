@@ -1,5 +1,6 @@
 body {
   background: lightsalmon;
+  margin: 40px;
 }
 
 h1 {
@@ -8,10 +9,12 @@ h1 {
 
 img {
   display: block;
-  margin: 20px auto;
-  padding: 20px;
-  border-radius: 3px;
+  margin: 0 auto;
+  border-radius: 10px;
   border: 2px solid yellow;
+}
+p {
+  text-align: center;
 }
 
 .links {
